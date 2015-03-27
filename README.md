@@ -45,4 +45,8 @@
 
 * 儲存密度持續提昇
 * 存放環境要求
+
+### 參考
+[電腦王](http://www.techbang.com/posts/17190) 
+[INSIDE](http://www.inside.com.tw/2013/12/03/60-year-old-technology-offers-a-good-storage-solution) 
  
